@@ -1,16 +1,16 @@
-## Hi there 👋
+# Walker Campbell
+**SWE Intern @ RTX | CS @ Texas A&M '27**
 
-<!--
-**Walk3rc04/walk3rc04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
+Computer Science major at Texas A&M with a minor in Game Design and Development, class of 2027.  
+Interested in systems, back-end, and game development.  
+Currently a Software Developer Intern at Collins Aerospace (RTX).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Links
+- [Portfolio](https://walk3rc04.github.io/portfolio.html)  
+- [LinkedIn](https://www.linkedin.com/in/walk3rc04/)  
+- [Email](mailto:walkerlcampbell@gmail.com)  
